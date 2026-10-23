@@ -78,7 +78,7 @@ contentResolver.query(
 
 | 1. Contacts Permission | 2. Contacts Screen |
 |---|---|
-| Add your permission-dialog screenshot as `screenshots/1_Contacts_Permission.png`. | Add your app screen screenshot as `screenshots/2_Contacts_Screen.png`. |
+| ![Contacts Permission](Screenshots/screenshots1_Contacts_Permission.png.png) | ![Contacts Screen](Screenshots/screenshots2_Contacts_Screen.png.png) |
 
 ## Working
 1. Launch the app.
