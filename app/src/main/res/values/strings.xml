@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacts Content Provider</string>
+    <string name="app_title">Contacts Content Provider</string>
+    <string name="app_subtitle">Data Sharing via ContactsContract</string>
+    <string name="btn_fetch_contacts">Fetch / Refresh Contacts</string>
+    <string name="status_initial">Tap Fetch / Refresh Contacts to load contacts.</string>
+    <string name="status_no_contacts">No contacts found on device.</string>
+    <string name="status_permission_denied">Permission denied. Unable to fetch contacts.</string>
+</resources>
